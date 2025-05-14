@@ -1,2 +1,2 @@
 # data_retrival
-this notebook contains codes used to retrieve different datasets
+This notebook contains codes used to retrieve different datasets, like AORC and CMIP6
