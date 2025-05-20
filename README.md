@@ -59,3 +59,32 @@ data_retrival/
 ```bash
 git clone https://github.com/omidemam/data_retrival.git
 cd data_retrival
+## 📜 Citation
+
+If you use this repository or any part of the included workflows in your research, please cite it as follows:
+
+> Emamjomehzadeh, O. (2025). *Climate Data Retrieval Scripts for Hydrologic and Infrastructure Modeling*. GitHub Repository: [https://github.com/omidemam/data_retrival](https://github.com/omidemam/data_retrival)
+
+**BibTeX**:
+
+```bibtex
+@misc{emamjomehzadeh2025data,
+  author       = {Omid Emamjomehzadeh},
+  title        = {Climate Data Retrieval Scripts for Hydrologic and Infrastructure Modeling},
+  year         = {2025},
+  url          = {https://github.com/omidemam/data_retrival},
+  note         = {GitHub repository}
+}
+```
+
+---
+
+## 👨‍🔬 Author
+
+Developed by [Omid Emamjomehzadeh](https://www.omidemam.com)  
+
+---
+
+## 🪪 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
