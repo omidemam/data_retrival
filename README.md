@@ -40,3 +40,11 @@ The notebook currently focuses on accessing and handling two main datasets:
   - `sfcWind`: Near-surface wind speed
 
 ---
+
+## 🔧 How to Use
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/omidemam/data_retrival.git
+cd data_retrival
