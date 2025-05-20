@@ -9,6 +9,17 @@ The notebook currently focuses on accessing and handling two main datasets:
 - NASA's **NEX-GDDP-CMIP6** downscaled climate projections via the Microsoft Planetary Computer
 
 ---
+## 📁 Repository Structure
+
+```
+data_retrival/
+├── AORC/                  # Scripts and utilities to access AORC historical climate data
+├── NEX_GDDP_CMIP6/        # Scripts to retrieve CMIP6 future climate projections
+├── LICENSE                # MIT License
+└── README.md              # This file
+```
+
+---
 
 ## 📦 Datasets Included
 ### 1. AORC – Analysis of Record for Calibration
