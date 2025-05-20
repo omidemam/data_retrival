@@ -14,7 +14,7 @@ The notebook currently focuses on accessing and handling two main datasets:
 ```
 data_retrival/
 ├── AORC/                  # Scripts and utilities to access AORC historical climate data
-├── NEX_GDDP_CMIP6/        # Scripts to retrieve CMIP6 future climate projections
+├── NEX_GDDP_CMIP6/        # Scripts to retrieve CMIP6 climate projections
 ├── LICENSE                # MIT License
 └── README.md              # This file
 ```
