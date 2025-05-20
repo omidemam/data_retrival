@@ -11,7 +11,6 @@ The notebook currently focuses on accessing and handling two main datasets:
 ---
 
 ## 📦 Datasets Included
-
 ### 1. AORC – Analysis of Record for Calibration
 - **Source**: NOAA National Water Model archive
 - **Access Method**: Public AWS S3 via `fsspec` and `xarray`
@@ -21,7 +20,6 @@ The notebook currently focuses on accessing and handling two main datasets:
 - **Time Period**: 1979–Present
 - **Variables**: 
   - Precipitation (APCP_surface)
-- **Use Case**: Historical rainfall inputs for hydrologic modeling and infrastructure performance evaluation
 
 ### 2. NEX-GDDP-CMIP6 – NASA Earth Exchange Downscaled Climate Projections
 - **Source**: NASA / Microsoft Planetary Computer
@@ -31,7 +29,14 @@ The notebook currently focuses on accessing and handling two main datasets:
 - **Spatial Resolution**: ~25 km (0.25°)
 - **Time Period**: Historical (1970–2014), Projections (2015–2100)
 - **Variables**:
-  - Daily precipitation (pr)
-- **Use Case**: Future rainfall projections under different climate scenarios for hydrologic simulation and risk assessment
+  - `pr`: Precipitation
+  - `tas`: Near-surface air temperature
+  - `tasmax`: Maximum daily temperature
+  - `tasmin`: Minimum daily temperature
+  - `hurs`: Relative humidity
+  - `huss`: Specific humidity
+  - `rlds`: Downward longwave radiation
+  - `rsds`: Downward shortwave radiation
+  - `sfcWind`: Near-surface wind speed
 
 ---
