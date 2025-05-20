@@ -49,14 +49,6 @@ data_retrival/
   - `rlds`: Downward longwave radiation
   - `rsds`: Downward shortwave radiation
   - `sfcWind`: Near-surface wind speed
-
-
----
-
-## 👨‍🔬 Author
-
-Developed by [Omid Emamjomehzadeh](https://www.omidemam.com)  
-
 ---
 
 ## 🪪 License
