@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Jupyter Notebook provides code to retrieve and process hydrometeorological datasets essential for flood risk assessment and culvert performance modeling. It is part of a broader project analyzing the spatio-temporal dynamics of flooding and infrastructure vulnerability in New York State.
+This Jupyter Notebook provides code to retrieve and process hydrometeorological datasets.
 
 The notebook currently focuses on accessing and handling two main datasets:
 - NOAA's **AORC (Analysis of Record for Calibration)** dataset
