@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Jupyter Notebook provides code to retrieve and process hydrometeorological datasets.
+This Jupyter Notebook provides code to retrieve and process meteorological datasets.
 
 The notebook currently focuses on accessing and handling two main datasets:
 - NOAA's **AORC (Analysis of Record for Calibration)** dataset
